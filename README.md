@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Karina. Currently work for Amazon. Will be using this respository for a coding bootcamp.
 <!--
 **karios1/karios1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
